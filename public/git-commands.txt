@@ -1,0 +1,11 @@
+git init
+git status
+git add -A
+git remote add origin path
+git commit -m "message"
+git push origin master
+git remote update
+git pull origin master
+
+
+git checkout file path
