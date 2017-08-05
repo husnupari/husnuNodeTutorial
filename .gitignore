@@ -1,0 +1,3 @@
+#ignore files that dont need to be checked out
+node_modules
+credentials.txt
